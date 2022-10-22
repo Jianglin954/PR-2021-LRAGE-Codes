@@ -1,4 +1,4 @@
-LRAGE Matlab Code
+# PR-2021-LRAGE-Codes
 
 This package contains the source code for the following paper:
 
